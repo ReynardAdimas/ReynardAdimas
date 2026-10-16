@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reynard Adimas Nabil</h1>
-# 💫 About Me:
+💫 About Me:
 🚀 Passionate about software development, competitive programming, and AI. 📚 Currently learning Flutter, Deep Learning & Competitive Programming. 🌱 Open to collaborating on interesting projects.
 
 
